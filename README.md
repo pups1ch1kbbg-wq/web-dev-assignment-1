@@ -1,3 +1,5 @@
+https://pups1ch1kbbg-wq.github.io/web-dev-assignment-1/
+
 🛠️ Task Overview
 📄 Task 1: Personal Profile (index.html)
 Features: Profile card layout, biographical info, structured learning goals, and curated learning resources.
